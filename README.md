@@ -2,7 +2,7 @@
 
 This application is meant for chatting with multiple users, made up of react and pusher chatkit-client 
 
-*** Applicaion setup ***
+***Applicaion setup***
 
 * Clone this project
 * Run ``` npm install ```
